@@ -2,6 +2,7 @@ name: Run Discord Bot
 
 on:
 workflow_dispatch:
+push:
 
 jobs:
 run-bot:
